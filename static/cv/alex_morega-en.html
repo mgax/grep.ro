@@ -11,13 +11,27 @@
 
   <h3>Personal Data</h3>
   <dl class="header">
-      <dt>E-mail:</dt> <dd id="the_contact">alex at this domain</dd>
-      <dt>Personal web site:</dt> <dd><a href="http://grep.ro">grep.ro</a></dd>
-      <dt>GitHub account:</dt> <dd><a href="https://github.com/mgax/">github.com/mgax</a></dd>
-      <dt>Location:</dt> <dd>Bucharest, Romania</dd>
+    <dt>E-mail:</dt>
+    <dd id="the_contact">alex at this domain</dd>
+
+    <dt>Personal website:</dt>
+    <dd><a href="http://grep.ro">grep.ro</a></dd>
+
+    <dt>GitHub account:</dt>
+    <dd><a href="https://github.com/mgax/">github.com/mgax</a></dd>
+
+    <dt>Location:</dt>
+    <dd>Bucharest, Romania</dd>
   </dl>
 
-  <script  type="text/javascript">m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai']; a = m[2] + m[0] + m[3] + m[1]; document.getElementById('the_contact').innerHTML = '<a href="' + m[5] + m[4] + ':' + a + '">' + a + '</a>';</script>
+  <script>
+    (function() {
+      var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
+      var a = m[2]+m[0]+m[3]+m[1];
+      var html = '<a href="'+m[5]+m[4]+':'+a+'">'+a+'</a>';
+      document.getElementById('the_contact').innerHTML = html;
+    })();
+  </script>
 
 
   <h3>General Info</h3>
