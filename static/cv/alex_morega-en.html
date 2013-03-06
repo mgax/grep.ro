@@ -6,18 +6,33 @@
     <link rel="stylesheet" href="cv.css">
 </head>
 <body>
+<div class="container">
 
   <h2>Ion Alexandru MOREGA</h2>
 
   <h3>Personal Data</h3>
   <dl class="header">
-      <dt>E-mail:</dt> <dd id="the_contact">alex at this domain</dd>
-      <dt>Personal web site:</dt> <dd><a href="http://grep.ro">grep.ro</a></dd>
-      <dt>GitHub account:</dt> <dd><a href="https://github.com/mgax/">github.com/mgax</a></dd>
-      <dt>Location:</dt> <dd>Bucharest, Romania</dd>
+    <dt>E-mail:</dt>
+    <dd id="the_contact">alex at this domain</dd>
+
+    <dt>Personal website:</dt>
+    <dd><a href="http://grep.ro">grep.ro</a></dd>
+
+    <dt>GitHub account:</dt>
+    <dd><a href="https://github.com/mgax/">github.com/mgax</a></dd>
+
+    <dt>Location:</dt>
+    <dd>Bucharest, Romania</dd>
   </dl>
 
-  <script  type="text/javascript">m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai']; a = m[2] + m[0] + m[3] + m[1]; document.getElementById('the_contact').innerHTML = '<a href="' + m[5] + m[4] + ':' + a + '">' + a + '</a>';</script>
+  <script>
+    (function() {
+      var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
+      var a = m[2]+m[0]+m[3]+m[1];
+      var html = '<a href="'+m[5]+m[4]+':'+a+'">'+a+'</a>';
+      document.getElementById('the_contact').innerHTML = html;
+    })();
+  </script>
 
 
   <h3>General Info</h3>
@@ -38,7 +53,7 @@
   <dl class="large">
     <dt>
       Web developer,
-      <a href="http://www.eaudeweb.ro">Eau de Web</a>,
+      <a href="http://www.eaudeweb.ro">Eau de Web</a>
       <span class="timeframe">July 2008 &ndash; present</span>
     </dt>
     <dd>
@@ -54,7 +69,7 @@
 
     <dt>
       Web developer,
-      <a href="http://www.iterating.com">ITerating Software</a>,
+      <a href="http://www.iterating.com">ITerating Software</a>
       <span class="timeframe">February 2006 &ndash; February 2008</span>
     </dt>
     <dd>
@@ -66,11 +81,38 @@
   </dl>
 
 
+  <h3>Non-job</h3>
+  <dl class="large">
+    <dt>
+      <a href="http://www.rosedu.org/">ROSEdu</a>
+      <span class="timeframe">2009 &ndash; present</span>
+    </dt>
+    <dd>
+      ROSEdu is a student organization at the CS department, Polytechnic
+      University of Bucharest. They promote open-source technology and
+      values among students and faculty. I help with presentations,
+      mentorship and organizing events.
+    </dd>
+
+    <dt>
+      Computer lab, somewhere in the Polytechnic University of
+      Bucharest
+      <span class="timeframe">2001 &ndash; present</span>
+    </dt>
+    <dd>
+      I do system administration for the computer network in a lab (a
+      handful of servers and a couple dozen workstations). This taught
+      me a lot about Linux system administration and keeping users
+      happy.
+    </dd>
+  </dl>
+
+
   <h3>Studies</h3>
 
   <dl class="large">
     <dt>
-      Faculty of Electronics, POLITEHNICA University, Bucharest
+      Faculty of Electronics, Polytechnic University, Bucharest
       <span class="timeframe">2003 &ndash; 2008</span>
     </dt>
 
@@ -99,9 +141,9 @@
 
     <dt>Web applications</dt>
     <dd>Flask is my current weapon of choice; can write WSGI middleware
-    by hand; dove into Zope source code (more than I'd like to admit);
-    some expericen with Django. Also wrote Perl CGI scripts in the
-    distant past.</dd>
+    by hand; dove deep into Zope source code (more than I'd like to
+    admit); some expericen with Django. Also wrote Perl CGI scripts in
+    the distant past.</dd>
 
     <dt>Data storage and indexing</dt>
     <dd>Good experience with SQL and ORMs; some experience with
@@ -116,5 +158,6 @@
     a loaf of bread.</dd>
   </dl>
 
+</div>
 </body>
 </html>
