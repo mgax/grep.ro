@@ -8,62 +8,47 @@
 
     <h1>Alex Morega</h1>
 
-    <dl>
+    <p>
+      Hi there! I'm a Python web developer based in Bucharest, Romania.
+      I work at <a href="http://www.eaudeweb.ro/">Eau de Web</a> and
+      volunteer with <a href="http://rosedu.org/">ROSEdu</a>, an
+      organization that promotes open-source in education.
+    </p>
 
-      <dt>GitHub</dt>
-      <dd><a href="https://github.com/mgax/">github.com/mgax</a></dd>
 
-      <dt>Twitter</dt>
-      <dd><a href="https://twitter.com/mgax">@mgax</a></dd>
+    <p>Current projects:</p>
 
-      <dt>Email</dt>
-      <dd id='the_contact'></dd>
-      <script>(function() {
+    <ul>
+      <li>
+        <a href="https://github.com/mgax/airship">Airship</a>
+        - application container inspired by the Heroku platform.
+      </li>
+
+      <li>
+        <a href="http://www.hambar109.ro/">Hambar109</a>
+        - search the Official Gazette of Romania.
+      </li>
+
+      <li>
+        <a href="https://github.com/mgax/sparql-browser">sparql-browser</a>
+        - quickly browse through triples in an RDF database.
+      </li>
+    </ul>
+
+    <p>
+      You can reach me at <span id='the_contact'></span>.
+      Also check out the GitHub account
+      (<a href="https://github.com/mgax/">github.com/mgax</a>)
+      and twitter (<a href="https://twitter.com/mgax">@mgax</a>).
+    </p>
+    <script>
+      (function() {
         var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
         var a = m[2] + m[0] + m[3] + m[1];
         var span = document.getElementById('the_contact');
         span.innerHTML = '<a href="'+m[5]+m[4]+':'+a+'">'+a+'</a>';
-      })();</script>
-
-      <dt>Affiliation</dt>
-      <dd>
-        <ul>
-
-          <li>
-            Working at <a href="http://www.eaudeweb.ro/">Eau de Web</a>.
-          </li>
-
-          <li>
-            Member of <a href="http://rosedu.org/">ROSEdu</a>
-            open-source educational organization.
-          </li>
-
-        </ul>
-      </dd>
-
-      <dt>Current projects</dt>
-      <dd>
-        <ul>
-
-          <li>
-            <a href="https://github.com/mgax/airship">Airship</a>
-            - runs your app when you deploy it.
-          </li>
-
-          <li>
-            <a href="http://www.hambar109.ro/">Hambar109</a>
-            - search the Official Gazette of Romania.
-          </li>
-
-          <li>
-            <a href="https://github.com/mgax/sparql-browser">sparql-browser</a>
-            - quickly browse through triples in an RDF database.
-          </li>
-
-        </ul>
-      </dd>
-
-    </dl>
+      })();
+    </script>
 
     <p class="mugshot">
       <img src="https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200">
