@@ -23,3 +23,4 @@ a:hover { color: #15b; }
 h2 { text-align: left; margin-left: 3em; font-size: 140%; }
 h3 { width: 8em; text-align: right; float: left; clear: both; }
 dl.header, dl.large { margin-left: 10em; margin-bottom: 2em; padding-left: 1em; border-left: .15em solid #468; }
+section { page-break-inside: avoid; }
