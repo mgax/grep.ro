@@ -1,14 +1,14 @@
-body { font-family: Helvetica, Arial, sans-serif; line-height: 1.3em; }
+body { font-family: Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.3em; }
 .container { margin-right: 3em; max-width: 900px; }
 
-h3 { margin: .5em 0; color: #149; }
+h3 { margin: .5em 0 0; color: #149; }
 
 dl.header dt { color: #468; }
 
 dl.large { margin-left: 2em; }
 dl.large dt { margin: 1em 0 .3em; font-weight: bold; }
 dl.large dt span.timeframe { padding-left: .3em; font-weight: normal; font-style: italic; color: #468; }
-dl.large dd { margin: .5em 0 2em; }
+dl.large dd { margin: 0 0 2em; }
 dl.large dd p, dl.large dl, dl.large ul { margin: .4em 0; color: #333; }
 
 dl.header, dl dl { margin-left: 2em; }
@@ -21,6 +21,5 @@ a { color: #333; }
 a:hover { color: #15b; }
 
 h2 { text-align: left; margin-left: 3em; font-size: 140%; }
-h3 { width: 8em; text-align: right; float: left; clear: both; }
-dl.header, dl.large { margin-left: 10em; margin-bottom: 2em; padding-left: 1em; border-left: .15em solid #468; }
-section { page-break-inside: avoid; }
+h3 { width: 6em; text-align: right; float: left; clear: both; }
+dl.header, dl.large { margin-left: 8em; margin-bottom: 2em; padding-left: 1em; border-left: .15em solid #468; }
