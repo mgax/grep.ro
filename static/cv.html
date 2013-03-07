@@ -1,17 +1,17 @@
 <!doctype html>
 <html>
 <head>
-    <title>Ion Alexandru Morega - CV</title>
+    <title>Alex Morega - CV</title>
     <meta charset="utf-8">
     <link rel="stylesheet" href="cv.css">
 </head>
 <body>
 <div class="container">
 
-  <h2>Ion Alexandru MOREGA</h2>
+  <h2>Alex Morega</h2>
 
   <section>
-  <h3>Personal Data</h3>
+  <h3>Personal</h3>
   <dl class="header">
     <dt>E-mail:</dt>
     <dd id="the_contact">alex at this domain</dd>
@@ -24,6 +24,15 @@
 
     <dt>Location:</dt>
     <dd>Bucharest, Romania</dd>
+
+    <dt>One-liner:</dt>
+    <dd>I like finding elegant solutions to difficult problems.</dd>
+
+    <dt>Field:</dt>
+    <dd>Web development</dd>
+
+    <dt>Job type:</dt>
+    <dd>Full time, project-based</dd>
   </dl>
 
   <script>
@@ -34,21 +43,7 @@
       document.getElementById('the_contact').innerHTML = html;
     })();
   </script>
-  </section>
 
-
-  <section>
-  <h3>General Info</h3>
-  <dl class="header">
-      <dt>One-liner:</dt>
-      <dd>I like finding elegant solutions to difficult problems.</dd>
-
-      <dt>Field:</dt>
-      <dd>Web development</dd>
-
-      <dt>Job type:</dt>
-      <dd>Full time, project-based</dd>
-  </dl>
   </section>
 
 
@@ -62,14 +57,29 @@
       <span class="timeframe">July 2008 &ndash; present</span>
     </dt>
     <dd>
-      Web development: Python (Flask, Django, Zope), JavaScript. We do
-      consulting for public sector clients (e.g. European Environment
-      Agency, World Bank). I talk to clients to learn their needs,
-      iterate on implementation, deploy and maintain the applications in
-      production, alone or as part of a small team. This provides the
-      opportunity to work with a good variety of open source
-      technologies, centered around Python web development. I submit
-      patches to upstream whenever possible.
+      We do consulting for public sector clients (e.g. European
+      Environment Agency, World Bank). I talk to clients to learn their
+      needs, iterate on implementation, deploy and maintain the
+      applications in production, alone or as part of a small team. This
+      provides the opportunity to work with a good variety of open
+      source technologies, centered around Python web development. I
+      submit patches to upstream whenever possible. Here's some stuff I
+      did:
+
+      <ul>
+        <li>Maintain and extend a service which hosts dozens of
+        websites;</li>
+        <li>Work closely with biodiversity experts to provide them with
+        collaboration tools;</li>
+        <li>Deliver on-site trainings;</li>
+        <li>Render thematic tiled maps;</li>
+        <li>Web application and data store for uploading &gt;20GB
+        geotiffs;</li>
+        <li>Management and monitoring tools for an LDAP with thousands
+        of accounts;</li>
+        <li>Visualization service for EU statistics based on
+        multi-dimensional data coming from an RDF database.</li>
+      </ul>
     </dd>
 
     <dt>
@@ -84,8 +94,10 @@
       administering the production servers.
     </dd>
   </dl>
+  </section>
 
 
+  <section>
   <h3>Non-job</h3>
   <dl class="large">
     <dt>
@@ -95,7 +107,11 @@
     <dd>
       ROSEdu is a student organization at the CS department, Polytechnic
       University of Bucharest. They promote open-source technology and
-      values among students and faculty. I help with presentations,
+      values among students and faculty. I help with presentations (e.g.
+      <a href="http://cdl.rosedu.org/2012/cursuri/curs03_2012_spring">Python</a>,
+      <a href="http://cdl.rosedu.org/2011/cursuri/curs05_2011">unit testing</a>,
+      <a href="http://talks.rosedu.org/prezentari/04-python-wsgi/">WSGI</a>,
+      <a href="http://talks.rosedu.org/prezentari/18-unicode/">Unicode</a>),
       mentorship and organizing events.
     </dd>
 
@@ -109,6 +125,47 @@
       handful of servers and a couple dozen workstations). This taught
       me a lot about Linux system administration and keeping users
       happy.
+    </dd>
+
+    <dt>
+      Conferences
+    </dt>
+    <dd>
+      I make a point of going to conferences in order to keep current.
+      PyCon US (2009, <a href="https://us.pycon.org/2011/home/">2011</a>),
+      EuroPython (<a href="http://ep2010.europython.eu/">2010</a>),
+      RuPy (<a href="http://11.rupy.eu/">2011</a>,
+      <a href="http://12.rupy.eu/">2012</a>),
+      FOSS4G-CEE (<a href="http://2012.foss4g-cee.org/">2012</a>),
+      TDWG (<a href="http://www.tdwg.org/conference2008/">2008</a>),
+      Eliberatica (<a href="http://eliberatica.ro/2007/">2007</a>,
+      <a href="http://eliberatica.ro/2008/">2008</a>,
+      <a href="http://eliberatica.ro/2009/">2009</a>).
+    </dd>
+
+    <dt>
+      Personal projects
+    </dt>
+    <dd>
+      <ul>
+        <li>
+          <a href="https://github.com/mgax/airship/">Airship</a>
+          - server-side utility, which makes deployment easier, inspired
+          by Heroku. Used in production for several projects.
+        </li>
+
+        <li>
+          <a href="http://www.hambar109.ro">Hambar109</a>
+          - searchable database containing the Official Gazette of
+          Romania. Several GB of text, some of it organized into
+          articles using tedious heuristics.
+        </li>
+
+        <li>
+          <a href="http://agenda.grep.ro">Agenda cu politicieni</a>
+          - database with contact details for Romanian politicians.
+        </li>
+      </ul>
     </dd>
   </dl>
   </section>
@@ -151,13 +208,18 @@
     <dt>Web applications</dt>
     <dd>Flask is my current weapon of choice; can write WSGI middleware
     by hand; dove deep into Zope source code (more than I'd like to
-    admit); some expericen with Django. Also wrote Perl CGI scripts in
-    the distant past.</dd>
+    admit); some experience with Django. Also wrote Perl CGI scripts in
+    the distant past. Currently discovering the beauty of JavaScript
+    MVC.</dd>
 
     <dt>Data storage and indexing</dt>
     <dd>Good experience with SQL and ORMs; some experience with
     non-relational data stores, especially Redis; light use of Solr and
     elasticsearch.</dd>
+
+    <dt>GIS</dt>
+    <dd>Fluent with GIS terminology, tools and practices; can set up web
+    services and render complex maps.</dd>
 
     <dt>Semantic web</dt>
     <dd>Handy with SPARQL; familiar with RDF concepts.</dd>
