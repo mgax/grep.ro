@@ -1,38 +1,32 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Alex Morega</title>
-  </head>
-  <body>
+<meta charset="utf-8">
+<title>Alex Morega</title>
 
-    <h1>Alex Morega</h1>
+<body>
 
-    <p>
-      Hi there! I'm a freelance Python web developer based in Bucharest,
-      Romania. I volunteer with <a href="http://rosedu.org/">ROSEdu</a>,
-      an organization that promotes open-source in education.
-    </p>
+<h1>Alex Morega</h1>
 
-    <p>
-      You can reach me at <span id='the_contact'></span>.
-      Also check out the GitHub account
-      (<a href="https://github.com/mgax/">github.com/mgax</a>)
-      and twitter (<a href="https://twitter.com/mgax">@mgax</a>)
-      and maybe <a href="cv.html">the cv</a>.
-    </p>
-    <script>
-      (function() {
-        var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
-        var a = m[2] + m[0] + m[3] + m[1];
-        var span = document.getElementById('the_contact');
-        span.innerHTML = '<a href="'+m[5]+m[4]+':'+a+'">'+a+'</a>';
-      })();
-    </script>
+<p>
+Hi there! I'm a freelance Python web developer based in Bucharest,
+Romania. I volunteer with <a href="http://rosedu.org/">ROSEdu</a>,
+an organization that promotes open-source in education.
 
-    <p class="mugshot">
-      <img src="https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200">
-    </p>
+<p>
+You can reach me at <span id='the_contact'></span>.
+Also check out the GitHub account
+(<a href="https://github.com/mgax/">github.com/mgax</a>)
+and twitter (<a href="https://twitter.com/mgax">@mgax</a>)
+and maybe <a href="cv.html">the cv</a>.
 
-  </body>
-</html>
+<p class="mugshot">
+<img src="https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200">
+
+<script>
+  (function() {
+    var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
+    var a = m[2] + m[0] + m[3] + m[1];
+    var span = document.getElementById('the_contact');
+    span.innerHTML = '<a href="'+m[5]+m[4]+':'+a+'">'+a+'</a>';
+  })();
+</script>
