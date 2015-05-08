@@ -53,7 +53,7 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
 
 ### Talks, workshops
 
-* haihui (AmsterdamJS March 2015 ([slides](http://grep.ro/quickpub/amsterdamjs-haihui/haihui.pdf), Utrecht JS March 2015 [overpass code demo](https://github.com/mgax/utrechtjs-map), geo-spatial Cluj 2015, softbinator [slides](http://grep.ro/quickpub/softbinator-haihui/slides.pdf))
+* haihui (AmsterdamJS March 2015 [slides](http://grep.ro/quickpub/amsterdamjs-haihui/haihui.pdf), Utrecht JS March 2015 [overpass code demo](https://github.com/mgax/utrechtjs-map), geo-spatial Cluj 2015, softbinator [slides](http://grep.ro/quickpub/softbinator-haihui/slides.pdf))
 
 * Overpass workshop, geo-spatial Cluj, June 2015, [tutorial](https://github.com/mgax/workshop-geocj2015-overpass/blob/master/README.md)
 
