@@ -2,6 +2,8 @@
 layout: default
 title: Alex Morega
 ---
+![](https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200)
+
 # Alex Morega
 
 Hi there! I'm a freelance web developer based in Bucharest,
@@ -13,10 +15,7 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
 ([@mgax](https://twitter.com/mgax)) and maybe [the cv](cv.html).
 
 
-![](https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200)
-
-
-Open source projects:
+### Open source projects
 
 * [JekyllCMS](http://jekyllcms.grep.ro)
   ([github.com/mgax/jekyllcms](https://github.com/mgax/jekyllcms)) – Content
@@ -51,7 +50,8 @@ Open source projects:
 * [AppleScript JSON](https://github.com/mgax/applescript-json) – AppleScript
   JSON encoder
 
-Talks, workshops:
+
+### Talks, workshops
 
 * haihui (AmsterdamJS March 2015 ([slides](http://grep.ro/quickpub/amsterdamjs-haihui/haihui.pdf), Utrecht JS March 2015 [overpass code demo](https://github.com/mgax/utrechtjs-map), geo-spatial Cluj 2015, softbinator [slides](http://grep.ro/quickpub/softbinator-haihui/slides.pdf))
 
@@ -86,7 +86,6 @@ Talks, workshops:
 * WSGI, ROSEdu Tech Talks, November 2009 [slides](http://grep.ro/quickpub/rtt-wsgi/slides/slides.pdf), [code](http://grep.ro/quickpub/rtt-wsgi/demo/)
 
 * ZODB, Wurbe, October 2009, [slides](http://grep.ro/quickpub/wurbe25/slides/slides.pdf), [code](http://grep.ro/quickpub/wurbe25/demo/)
-
 
 
 <script>
