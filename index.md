@@ -21,7 +21,7 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
   ([github.com/mgax/jekyllcms](https://github.com/mgax/jekyllcms)) – Content
   editor for [GitHub Pages](https://pages.github.com/)
 
-* [Hărți haihui](http://haihui.grep.ro)
+* [haihui](http://haihui.grep.ro)
   ([github.com/mgax/haihui](https://github.com/mgax/haihui)) – hiking maps,
   optimized for mobile use, based on
   [OpenStreetMap](http://www.openstreetmap.org/) data
@@ -33,13 +33,14 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
   ([github.com/mgax/mptracker](https://github.com/mgax/mptracker)) – statistics
   about Romanian MPs (client: [Open Politics](http://www.openpolitics.ro))
 
-* [BlackSea HIV](http://mgax.github.io/blacksea-hiv/map.html) – map of HIV
-  cases in the Black Sea region (client: [The Black Sea](http://theblacksea.eu)
-  publication)
+* [BlackSea HIV](http://mgax.github.io/blacksea-hiv/map.html)
+  ([github.com/mgax/blacksea-hiv](https://github.com/mgax/blacksea-hiv)) – map
+  of HIV cases in the Black Sea region (client: [The Black
+  Sea](http://theblacksea.eu) publication)
 
 * [GistMap](https://github.com/mgax/gistmap/wiki) – publish maps on the web by
   creating a [gist](https://gist.github.com), inspired by
-  [bl.ocks.org](http://bl.ocks.org).
+  [bl.ocks.org](http://bl.ocks.org)
 
 * [SpaghettiFS](https://github.com/mgax/SpaghettiFS) – experimental Fuse
   filesystem that stores data in a Git repository
