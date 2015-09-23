@@ -2,8 +2,9 @@
 title: Proiecte
 ---
 # Proiecte care au nevoie de ajutor
-Suntem niște proiecte faine, de care Alex nu are timp destul, și am vrea să ne
-ajuți să mergem mai departe.
+Suntem niște proiecte faine, de care [Alex](/) nu are timp destul, și am vrea
+să ne ajuți să mergem mai departe. Alex promite că oferă ajutor și mentorship
+dacă te bagi.
 
 ### JekyllCMS
 Editor de conținut pentru GitHub Pages
