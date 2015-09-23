@@ -19,7 +19,8 @@ Hărți montane offline pentru telefonul mobil. Datele provin din OpenStreetMap
 
 [site](https://haihui.grep.ro),
 [repository](https://github.com/mgax/haihui),
-[trello](https://trello.com/b/5TpmWzNO/haihui)
+[trello](https://trello.com/b/5TpmWzNO/haihui),
+[pagină fb](https://www.facebook.com/HartiHaihui)
 
 ### Site geo-spatial.org
 Site-ul comunității GeoSpatial. Multe articole, script-uri pentru descărcat
