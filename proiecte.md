@@ -31,6 +31,14 @@ conținut și convertit coordonate.
 [repository](https://github.com/mgax/geo-spatial.org),
 [trello](https://trello.com/b/AA9W8G7h/site-geo-spatial-org)
 
+### Site legi-internet.ro
+Site despre legi și jurisprudență care afectează Internetul.
+
+[site vechi](http://www.legi-internet.ro),
+[site nou](http://aptiro.github.io/legi-internet/),
+[repository](https://github.com/aptiro/legi-internet),
+[trello](https://trello.com/b/Ztfu6Woo/site-legi-internet-ro)
+
 ### Site fro.ro
 Site-ul Federației Române de Orientare.
 
@@ -46,7 +54,7 @@ meșteri din țară.
 [site vechi](http://artisperitia.ro),
 [site nou](http://rowingpitou.github.io/artisperitia.ro/),
 [repository](https://github.com/rowingpitou/artisperitia.ro),
-[trello](https://trello.com/b/32s5Mutc/artisperitia-ro)
+[trello](https://trello.com/b/32s5Mutc/site-artisperitia-ro)
 
 ### Date pentru OpenStreetMap
 Introdus diverse date în OpenStreetMap, de la POI-uri individuale la track-uri
