@@ -53,6 +53,8 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
 
 ### Talks, workshops
 
+* Visualizations (Open Data Summer School, June 2015, [slides](https://grep.ro/quickpub/odss-vis.pdf), [code](https://github.com/mgax/workshop-odss-vis))
+
 * haihui (AmsterdamJS March 2015 [slides](https://grep.ro/quickpub/amsterdamjs-haihui/haihui.pdf), Utrecht JS March 2015 [overpass code demo](https://github.com/mgax/utrechtjs-map), geo-spatial Cluj 2015, softbinator [slides](https://grep.ro/quickpub/softbinator-haihui/slides.pdf))
 
 * Overpass workshop, geo-spatial Cluj, June 2015, [tutorial](https://github.com/mgax/workshop-geocj2015-overpass/blob/master/README.md)
