@@ -17,4 +17,4 @@ Interfață de căutare full-text: [hoover.grep.ro][].
 
 [mof1/2015/mof1_2015_0306.pdf]: http://mofs.tanker.grep.ro/mof1/2015/mof1_2015_0306.pdf
 [mof1/2015/index.ldjson]: http://mofs.tanker.grep.ro/mof1/2015/index.ldjson
-[hoover.grep.ro]: https://hoover.grep.ro
+[hoover.grep.ro]: https://hoover.grep.ro/?collections=mof
