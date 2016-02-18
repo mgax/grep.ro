@@ -3,8 +3,7 @@ title: Monitorul oficial
 ---
 # Arhivă de monitoare oficiale
 
-La adresa https://mgax-mof.s3.amazonaws.com/ se află o arhivă de monitoare
-oficiale:
+La adresa `http://mofs.tanker.grep.ro` se află o arhivă de monitoare oficiale:
 
 * majoritatea edițiilor din decembrie 1989 până în octombrie 2011
 * toate edițiile din noiembrie 2013 până azi
@@ -16,7 +15,6 @@ format line-delimited JSON (un document JSON pe fiecare linie de text), (ex.
 
 Interfață de căutare full-text: [hoover.grep.ro][].
 
-[mof1/2015/mof1_2015_0306.pdf]:
-http://mofs.tanker.grep.ro/mof1/2015/mof1_2015_0306.pdf
+[mof1/2015/mof1_2015_0306.pdf]: http://mofs.tanker.grep.ro/mof1/2015/mof1_2015_0306.pdf
 [mof1/2015/index.ldjson]: http://mofs.tanker.grep.ro/mof1/2015/index.ldjson
 [hoover.grep.ro]: https://hoover.grep.ro
