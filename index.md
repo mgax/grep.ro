@@ -1,7 +1,7 @@
 ---
 title: Alex Morega
 ---
-<p class="pull-right"><img src="photo.jpeg" class="img-rounded"></p>
+<p class="photo pull-right"><img src="photo.jpeg" class="img-rounded"></p>
 
 # Alex Morega
 
