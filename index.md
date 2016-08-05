@@ -9,9 +9,9 @@ Hi there! I'm a freelance web developer based in Bucharest,
 Romania. I'm also a member of [ROSEdu](http://rosedu.org/),
 an organization that promotes open-source in education.
 
-You can reach me at <span id='the_contact'></span>. Also check out the GitHub
-account ([github.com/mgax](https://github.com/mgax/)) and twitter
-([@mgax](https://twitter.com/mgax)) and maybe [the cv](cv.html).
+You can reach me at <span id='the_contact'></span>. Also check out my GitHub
+account ([github.com/mgax](https://github.com/mgax/)) and maybe [the
+cv](cv.html).
 
 
 ### Open source projects
