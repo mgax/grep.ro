@@ -1,7 +1,7 @@
 ---
 title: Alex Morega
 ---
-![](https://secure.gravatar.com/avatar/3cedacd1954b723b4f88ea7e3675bc40?s=200)
+<p class="pull-right"><img src="photo.jpeg" class="img-rounded"></p>
 
 # Alex Morega
 
