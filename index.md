@@ -53,6 +53,12 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
 
 ### Talks, workshops
 
+* Web maps, geo-spatial Cluj, April 2016,
+  [code](https://github.com/mgax/workshop-geocj2016-web)
+
+* Orienteering maps, geo-spatial Cluj, April 2016,
+  [slides](https://qp.grep.ro/geospatial-2016/orientare.pdf)
+
 * Visualizations (Open Data Summer School, June 2015,
   [slides](https://grep.ro/quickpub/odss-vis.pdf),
   [code](https://github.com/mgax/workshop-odss-vis))
