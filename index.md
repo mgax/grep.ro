@@ -16,8 +16,14 @@ account ([github.com/mgax](https://github.com/mgax/)) and twitter
 
 ### Open source projects
 
+* [SubText](https://github.com/mgax/subtext.git) – private end-to-end encrypted
+  chat app with a nice user experience
+
+* [Hoover](https://github.com/mgax/hoover.git) – search tool for large
+  collections of documents based on elasticsearch
+
 * [JekyllCMS](http://jekyllcms.grep.ro)
-  ([github.com/mgax/jekyllcms](https://github.com/mgax/jekyllcms)) – Content
+  ([github.com/mgax/jekyllcms](https://github.com/mgax/jekyllcms)) – content
   editor for [GitHub Pages](https://pages.github.com/)
 
 * [haihui](http://haihui.grep.ro)
