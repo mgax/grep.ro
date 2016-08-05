@@ -16,6 +16,9 @@ account ([github.com/mgax](https://github.com/mgax/)) and maybe the cv
 
 ### Open source projects
 
+* [LFS](https://github.com/mgax/lfs) – a
+  [Git-LFS](https://github.com/github/git-lfs) server implemented in Python
+
 * [SubText](https://github.com/mgax/subtext.git) – private end-to-end encrypted
   chat app with a nice user experience
 
