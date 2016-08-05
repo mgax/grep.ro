@@ -11,7 +11,7 @@ an organization that promotes open-source in education.
 
 You can reach me at <span id='the_contact'></span>. Also check out my GitHub
 account ([github.com/mgax](https://github.com/mgax/)) and maybe [the
-cv](cv.html).
+cv](cv-en.html).
 
 
 ### Open source projects
