@@ -16,6 +16,9 @@ cv](https://grep.ro/cv-en.html).
 
 ### Open source projects
 
+* [Factory](https://github.com/liquidinvestigations/factory) - a virtual
+  machine runner based on `qemu-kvm` that makes it easy to run disposable VMs.
+
 * [LFS](https://github.com/mgax/lfs) – a
   [Git-LFS](https://github.com/github/git-lfs) server implemented in Python
 
