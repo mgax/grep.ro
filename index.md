@@ -10,9 +10,8 @@ Romania. I'm also a member of [ROSEdu](http://rosedu.org/),
 an organization that promotes open-source in education.
 
 You can reach me at <span id='the_contact'></span>. Also check out my GitHub
-account ([github.com/mgax](https://github.com/mgax/)) and maybe the cv
-([English](https://grep.ro/cv-en.html),
-[Romanian](https://grep.ro/cv-ro.html)).
+account, [github.com/mgax](https://github.com/mgax/), and maybe [the
+cv](https://grep.ro/cv-en.html).
 
 
 ### Open source projects
