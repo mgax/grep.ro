@@ -5,12 +5,9 @@ title: Alex Morega
 
 # Alex Morega
 
-Hi there! I'm a freelance web developer based in Bucharest,
-Romania. I'm also a member of [ROSEdu](http://rosedu.org/),
-an organization that promotes open-source in education.
-
-You can reach me at <span id='the_contact'></span>. Also check out my GitHub
-account, [github.com/mgax](https://github.com/mgax/), and maybe [the
+Hi there! I'm a freelance web developer based in Bucharest, Romania. You can
+reach me at <span id='the_contact'></span>. Also check out my GitHub account,
+[github.com/mgax](https://github.com/mgax/), and maybe [the
 cv](https://grep.ro/cv-en.html).
 
 
