@@ -151,6 +151,12 @@ cv](https://grep.ro/cv-en.html).
   [code](https://grep.ro/quickpub/wurbe25/demo/)
 
 
+### Testimonials
+> "i mean, not the first time, but after a while your shit works"
+>
+> -- Craig Shaw, journalist, [theblacksea.eu](https://theblacksea.eu)
+
+
 <script>
   (function() {
     var m = ['x@gr', '.ro', 'ale', 'ep', 'lto', 'mai'];
