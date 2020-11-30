@@ -13,11 +13,12 @@ cv](https://grep.ro/cv-en.html).
 
 ### Open source projects
 
-* [Hoover](https://github.com/mgax/hoover.git) – search tool for large
-  collections of documents based on elasticsearch
+* [The Black Sea](https://theblacksea.eu) – website of an independent
+  publication with in-depth stories from the Black Sea region
 
-* [Factory](https://github.com/liquidinvestigations/factory) - a virtual
-  machine runner based on `qemu-kvm` that makes it easy to run disposable VMs.
+* [Liquid Investigations](https://github.com/liquidinvestigations) – toolkit
+  for private secure journalistic collaboration, comprising a search engine,
+    chat, file sharing, wiki and annotations.
 
 * [LFS](https://github.com/mgax/lfs) – a
   [Git-LFS](https://github.com/github/git-lfs) server implemented in Python
@@ -34,9 +35,6 @@ cv](https://grep.ro/cv-en.html).
   of HIV cases in the Black Sea region (client: [The Black
   Sea](http://theblacksea.eu) publication)
 
-* [SubText](https://github.com/mgax/subtext.git) – private end-to-end encrypted
-  chat app with a nice user experience
-
 * [JekyllCMS](http://jekyllcms.grep.ro)
   ([github.com/mgax/jekyllcms](https://github.com/mgax/jekyllcms)) – content
   editor for [GitHub Pages](https://pages.github.com/)
@@ -45,10 +43,6 @@ cv](https://grep.ro/cv-en.html).
   ([github.com/mgax/haihui](https://github.com/mgax/haihui)) – hiking maps,
   optimized for mobile use, based on
   [OpenStreetMap](http://www.openstreetmap.org/) data
-
-* [GistMap](https://github.com/mgax/gistmap/wiki) – publish maps on the web by
-  creating a [gist](https://gist.github.com), inspired by
-  [bl.ocks.org](http://bl.ocks.org)
 
 * [SpaghettiFS](https://github.com/mgax/SpaghettiFS) – experimental Fuse
   filesystem that stores data in a Git repository
